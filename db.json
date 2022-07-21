@@ -1,0 +1,131 @@
+{
+  "posts": [
+    {
+      "title": "Terminal Velocity of Kittens",
+      "body": "Why click on this? What did you hope to learn?",
+      "user": "Ethan",
+      "topic": "Science",
+      "id": 1,
+      "likes": 100
+    },
+    {
+      "title": "Aerodynamics of a cow",
+      "body": "You know the one.",
+      "user": "Ethan",
+      "topic": "Physics",
+      "id": 2,
+      "likes": 200
+    },
+    {
+      "title": "Help with SEG course",
+      "body": "I have 5 hours left to figure out how to use react-bootstrap.",
+      "user": "Ethan",
+      "topic": "Computer Science",
+      "id": 3,
+      "likes": 300
+    },
+    {
+      "title": "Pourquoi est-ce que les postes sont en anglais?",
+      "body": "T",
+      "user": "T",
+      "topic": "Science",
+      "id": 4,
+      "likes": 400
+    },
+    {
+      "title": "Test5",
+      "body": "T",
+      "user": "T",
+      "topic": "Science",
+      "id": 5,
+      "likes": 500
+    },
+    {
+      "title": "Test6",
+      "body": "T",
+      "user": "T",
+      "topic": "Science",
+      "id": 6,
+      "likes": 600
+    },
+    {
+      "title": "Test7",
+      "body": "T",
+      "user": "T",
+      "topic": "Science",
+      "id": 7,
+      "likes": 700
+    },
+    {
+      "title": "Test8",
+      "body": "T",
+      "user": "T",
+      "topic": "Science",
+      "id": 8,
+      "likes": 800
+    },
+    {
+      "title": "Just typing stuff",
+      "body": "Something interesting",
+      "user": "uhhhhh gotta fix this",
+      "topic": "tech",
+      "id": 9
+    }
+  ],
+  "topics": [
+    {
+      "engName": "Science",
+      "followers": 200,
+      "id": 1
+    },
+    {
+      "engName": "Technology",
+      "followers": 200,
+      "id": 2
+    },
+    {
+      "engName": "Engineering",
+      "followers": 200,
+      "id": 3
+    },
+    {
+      "engName": "Mathematics",
+      "followers": 200,
+      "id": 4
+    },
+    {
+      "engName": "Psycology",
+      "followers": 200,
+      "id": 5
+    },
+    {
+      "engName": "Physics",
+      "followers": 200,
+      "id": 6
+    }
+  ],
+  "questions": [
+    {
+      "question": "How do I answer a question",
+      "likes": 1,
+      "answers": [
+        {
+          "answer": "No clue still working on it",
+          "likes": 1,
+          "responses": []
+        }
+      ]
+    },
+    {
+      "question": "How do I answer a question",
+      "likes": 2,
+      "answers": [
+        {
+          "answer": "No clue still working on it",
+          "likes": 2,
+          "responses": []
+        }
+      ]
+    }
+  ]
+}
